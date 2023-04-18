@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#5e60ce, #80ffdb, #6fffe9);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 1px 1px 3px black;
+    
+}
+
+.gift-hint{
+    font-size: 15px
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #ef476f;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #ef476f;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+    
+}
+
+#bday-date {
+    margin: 0;
+    background: #ef476f;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+}
+
+
+
+#gift-img-djtillu:hover {
+    background-image: url("https://im5.ezgif.com/tmp/ezgif-5-2114b5f059.gif");
+}
+
+#gift-img-no1:hover {
+    background-image: url("https://im5.ezgif.com/tmp/ezgif-5-0c08e8f6fd.gif");
+}
+
+#gift-img-pspk:hover {
+    background-image: url("https://media.kulfyapp.com/3C4C6U/3C4C6U-360.gif");
+}
+
+#gift-img-pushpa:hover {
+    background-image: url("https://im5.ezgif.com/tmp/ezgif-5-2b2dbad94f.gif");
+}
+
+#gift-img-nbk:hover {
+    background-image: url("https://media.tenor.com/Dt6-ISK9kqAAAAAC/unstoppable-balayya.gif");
+}
+
+#gift-img-balayya:hover {
+    background-image: url("https://media.tenor.com/P_bYMEd2ad0AAAAM/namaste-nbk.gif");
+}
+
+#gift-img-hbd:hover {
+    background-image: url("https://im4.ezgif.com/tmp/ezgif-4-0466908ac9.gif");
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: #ef476f;
+    text-shadow: 1px 1px 3px #ffffff
+}
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
