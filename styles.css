@@ -73,7 +73,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-no1:hover {
-    background-image: url("https://im5.ezgif.com/tmp/ezgif-5-0c08e8f6fd.gif");
+    background-image: url("images/ayyagare.gif");
 }
 
 #gift-img-pspk:hover {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hbd:hover {
-    background-image: url("https://im4.ezgif.com/tmp/ezgif-4-0466908ac9.gif");
+    background-image: url("images/HBD LAYAM.gif");
 }
 
 #footer {
@@ -109,14 +109,3 @@ a {
     text-shadow: 1px 1px 3px #ffffff
 }
 
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
