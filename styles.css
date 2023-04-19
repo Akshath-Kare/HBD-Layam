@@ -14,6 +14,17 @@ h1, h2, h3, h4, p {
     font-size: 15px
 }
 
+.grow img{
+transition: 1s ease;
+}
+
+.grow img:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1.5s ease;
+}
+
 #bff-img {
     width: 150px;
     border-radius: 50%;
